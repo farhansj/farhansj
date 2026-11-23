@@ -3,8 +3,8 @@ I am a System Engineer with a passion for designing, implementing, and maintaini
 
 <a href="https://certdirectory.io/profile/muhammad-farhan-sjaugi?utm_source=github&utm_medium=readme">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/muhammad-farhan-sjaugi.svg?style=card&theme=dark">
-    <img alt="Muhammad Farhan Sjaugi on CertDirectory" src="https://certdirectory.io/badge/muhammad-farhan-sjaugi.svg?style=card">
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/muhammad-farhan-sjaugi.svg?theme=dark">
+    <img alt="Muhammad Farhan Sjaugi on CertDirectory" src="https://certdirectory.io/badge/muhammad-farhan-sjaugi.svg">
   </picture>
 </a>
 
